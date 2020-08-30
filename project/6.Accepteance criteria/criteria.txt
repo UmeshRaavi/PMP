@@ -1,0 +1,70 @@
+Acceptance Criteria :
+US
+
+User Story                                                   Acceptance Criteria                                                                       Acceptance Test
+
+(27)
+
+As a reader, I want the application to work in both          Users could be able to see the ‘Other View’ option.                                        By clicking the ‘Other View’ button the view changes from landscape to portrait or vice-versa.
+portrait and landscape orientation,                          Users should be able to change the view by tilting the device. 
+
+so that I can choose the way I view material
+                                                                         			     
+
+                                                             
+                                                                                                                                                    
+
+(28)
+
+As a reader, I want any pictures associated with 	    Users could be able to see the images associated with					Preview of the images along with the texts of the book should be given in the application. 	
+the content to appear with the text,  			    the text as in the real books.
+so that they can supplement the reading material            Users should be able to see the text in the book along 
+						            with the images associated with that text.
+                                                              
+                                                              
+
+                                                             
+                                                             
+
+                                                                                                                                                   
+
+(29)
+
+As a reader, I want to be able to adjust font size,        Users could be able to see the option to change the 						The Font size of the text in the book should change by either selecting ‘larger’ or ‘smaller’ font options via the ‘Change font size’ button.
+so that it is easier to read                               font size of the text in the book.
+							   Users should be able to change the font size by the option 
+							   pinch with fingers.                                                             
+                                                             
+
+                                                             
+                                                              
+
+                                                                                                                                                    
+
+(32)
+
+As a reader, I want to be able to connect with a           Users that are of the same comprehension ability could				    The application then adds peers to the ‘Friends List’ of the user from the list of ‘Peers to connect’. 
+remote user, so that I know if I have access to            be seen as a list ‘Peers to Connect’.
+someone with whom I can read                               User should be able to select other peers to add 
+                                                           them to their friend’s list
+
+                                                              
+                                                             
+
+                                                             
+                                                            
+                                                                                                                                                     
+
+(33)
+
+As a reader, I want to read with a connected              Users could able to see an option to make						   The application connects users via audio calls.
+reader using audio, so that we can read together          audio calls to friends.
+   						          Users should be able to talk to each other
+						          and also be able to list each other.
+                                                              
+                                                             
+
+                                                            
+                                                            
+
+                                                                                                                                                    

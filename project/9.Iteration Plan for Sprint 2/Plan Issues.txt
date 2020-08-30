@@ -1,0 +1,7 @@
+1. There are many unassigned tasks that can be either beneficial if the developers self-assign which is a better way, but this can lead to a problem if there isn't proper communication.
+
+2. Looking at the total hours required which are 124 and developer hours available are 105 there might be a lack of time required for the application development.
+
+3. It's better to consider the writing and testing of the code are taken care of by two different developers to increase efficiency.
+
+4. No pair programming is undertaken, it's highly recommended to assign more than one developer to develop source code. 

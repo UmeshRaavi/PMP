@@ -1,0 +1,6 @@
+Positive n Negative :
+1. Alexa's assigned working hours are more compared to others, re-assigning these works would be ideal.
+2. Tasks are comparatively smaller than that of previous iteration plans
+3. Most of the tasks are provided with the required time to complete, hence results in an easier workflow.
+4. Tasks are mostly Self-assigned and are following Agile Practices which results in 
+5. Pair programming is comparatively very less and would be better if more pair programming is implemented.s

@@ -1,0 +1,10 @@
+1.The risk of the database connection feature not working.
+Additional risk :
+1. What if the database is left glitchy and there are further problems with the datasets? 
+As they talked earlier about the glitches in the DataBase. 
+Contingency, they must complete setting up DataBase as soon as possible and start testing the various functionality of the DataBase.
+High, as it would cause the application to fail, they must sure check the database and resolve all the issues with it.
+2. Since the team is small, would the team be able to develop the application on time?
+It seems as they are working day by day for the project based on their requirements.
+Contingency, there isn't be much done about this as the group is small and everyone is busy with their tasks.
+High, will the team of only 3 be able to develop both versions of the application, the must create a sophisticated planning model to avoid any further releasing date issues.

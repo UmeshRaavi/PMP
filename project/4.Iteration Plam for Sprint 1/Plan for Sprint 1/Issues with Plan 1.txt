@@ -1,0 +1,7 @@
+1. No time assigned for the development of Android application, this would impact a lot on the number of customers. Focusing sole on ios development might not be a good idea.  
+
+2. Though user manuals are handy and are quite useful, but the application is focused mainly on kids, spending more time creating user manuals wouldn't be a good idea.
+
+3. There is a mistake done to estimate every last user story, as the time for writing Source code is 0.5 hours and for Unit test is 16 hours. And likely problem is faced in the USID. 26  user story where source code is supposed to be for 0.5 hours and writing Unit tests be -3 hours. This must be verified once again to avoid some potential risks of delay.
+
+4. Kate has more time at slack than that of Josh, Alexa, this could be reassigned so that, Alexa and Josh would get more breaks and be more productive. This can be achieved by reassigning the USID 24 user story.

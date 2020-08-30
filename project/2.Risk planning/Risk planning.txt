@@ -1,0 +1,19 @@
+1. What if they run into compatibility issues with the different operating systems?
+High risk, this should be the first priority for the team to take care of, developers with more experience and high skills should be taking care of this problem.
+2. What if someone gets sick?
+Moderate, as they mentioned ' No one should get sick' isn't quite the answer to this problem, there must a definite solution to this problem. Like some backup developers or the current developers should be ahead of their development schedule tasks. 
+3. What would be the problems with voice recognition?
+High, as the voice recognition is of the prominent feature they are working on, they must make sure it works properly and should develop the software with high preciseness and accuracy. 
+4. What if the remote connection with users face any problem?  
+High, as the remote connection is also one of the prominent features they are considering to build, they must consider all the available options and should implement the best option which is suitable for them.
+
+
+Additional Risks :
+1. What if the database gets left glitchy and there are further problems with the datasets? 
+High, as it would cause the application to fail, they must sure check the database and resolve the issues with it.
+2. Since the team is small, would the team be able to develop the ios and android app on time?
+High, will the team of only 3 be able to develop both versions of the application, the must create a sophisticated planning model to avoid any further releasing date issues.
+3. If the database is glitchy, will the remote connection with users work properly? 
+High, as every single data about the users are saved in the Database, they would face any problems if the left it glitchy. 
+4. What if the voice recognition system couldn't recognize the user's accent? 
+Moderate, but they must also take accents into consideration as there are few different accents out there and the system would find it difficult with the accents to recognize.
